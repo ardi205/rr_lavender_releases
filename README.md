@@ -23,7 +23,11 @@ https://github.com/faham1997/rr_lavender_releases/releases
 https://github.com/faham1997/rr_lavender_releases/blob/RR/changelog.txt
 
 <b>ROM support :</b> <br />
-If you want to talk about ROM , you can join my telegram group https://t.me/joinchat/Fcx2pkswbyZ2XjHbwl3ZRQ
+If you want to talk about ROM development , you can join my telegram group https://t.me/joinchat/Fcx2pkswbyZ2XjHbwl3ZRQ <br />
+
+<b>Bugs Reporting:</b> <br />
+Additionally you can  report bugs in here with proper logcats if you face any issues. <br />
+https://github.com/faham1997/rr_lavender_releases/issues
 
 
 
