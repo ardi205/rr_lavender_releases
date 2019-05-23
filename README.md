@@ -10,6 +10,12 @@ This repo contains Resurrection Remix Builds for all Redmi Note 7 Variants.
 5.Flash Magisk (if you want root)<br />
 6.Reboot.<br />
 
+<b>Recommended Gapps : </b> <br />
+https://androidfilehost.com/?fid=1395089523397950026
+
+<b>Recommended TWRP : </b> <br />
+https://forum.xda-developers.com/redmi-note-7/development/recovery-twrp-3-3-0-t3923835
+
 <b>Releases can be found in here :</b> <br />
 https://github.com/faham1997/rr_lavender_releases/releases
 
