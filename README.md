@@ -1,3 +1,5 @@
+![Resurrection Remix](https://img.xda-cdn.com/VCzSfhbT8mPf_gKEDU0rBZhRDdM=/https%3A%2F%2Fimg.xda-cdn.com%2Frmi99HMuulDIBMylNPUyyG15CDA%3D%2Fhttps%253A%252F%252Fresurrectionremix.com%252Fassets%252Frrlogo.png)
+
 This repo contains Resurrection Remix Builds for all Redmi Note 7 Variants.
 
 <b>How to install Resurrection Remix :</b><br />
