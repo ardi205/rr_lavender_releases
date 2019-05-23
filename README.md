@@ -8,9 +8,14 @@ This repo contains Resurrection Remix Builds for all Redmi Note 7 Variants.
 5.Flash Magisk (if you want root)<br />
 6.Reboot.<br />
 
-<b>Releases can be found in here :</b>
+<b>Releases can be found in here :</b> <br />
 https://github.com/faham1997/rr_lavender_releases/releases
 
-<b>Changelogs can be found in here :</b>
+<b>Changelogs can be found in here :</b> <br />
+https://github.com/faham1997/rr_lavender_releases/blob/RR/changelog.txt
+
+<b>ROM support :</b> <br />
+If you want to talk about ROM , you can join my telegram group https://t.me/joinchat/Fcx2pkswbyZ2XjHbwl3ZRQ
+
 
 
